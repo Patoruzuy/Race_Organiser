@@ -3,7 +3,7 @@ import java.util.*;
  * class RaceOrganiser models information
  * used by a race officer at a sailing club.
  *
- * @author M250 module team
+ * @author Sebastian Gomez 
  * @version v1
  */
 public class RaceOrganiser
