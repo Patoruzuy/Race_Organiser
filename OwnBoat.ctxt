@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OwnBoat
+comment0.text=\n\ Class\ OwnBoat\ simulates\ a\ Dinghy\ \n\ that\ is\ owned\ by\ a\ sailor\ who\ may\ be\ a\ \n\ visitor\ or\ a\ member\ of\ the\ club.\n\n\ @author\ M250\ Module\ team\n\ @version\ v1\n
+comment1.params=aClassName\ aBoatName\ aSailNumber\ aVisitor
+comment1.target=OwnBoat(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment1.text=\n\ Question\ B-ii\n\ Constructor\ for\ objects\ of\ class\ OwnBoat\n\ \n\ @param\ aClassName\ The\ class\ of\ the\ dinghy\ (e.g.\ Laser)\n\ @param\ aBoatName\ The\ boatName\ of\ the\ dinghy\n\ @param\ aSailNumber\ The\ sail\ number\ of\ the\ dinghy\n\ @param\ aVisitor\ \ Set\ true\ if\ the\ owner\ is\ a\ visitor,\ otherwise\ false.\n
+comment2.params=aVisitor
+comment2.target=void\ setVisitor(boolean)
+comment2.text=\n\ setter\ method\ for\ visitor\n\ @param\ aVisitor\ true\ if\ the\ owner\ is\ a\ visitor,\ otherwise\ false.\n
+comment3.params=
+comment3.target=boolean\ isVisitor()
+comment3.text=\n\ Tells\ whether\ the\ boat\ is\ being\ used\ by\ a\ visitor\ the\ club.\n\ @return\ visitor\ true\ if\ the\ owner\ is\ a\ visitor,\ otherwise\ false.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Question\ B-iii\n\ Return\ a\ string\ representation\ from\ its\ superclass\ including\ its\ \n\ sailing\ class\ name,\ boat\ name\ and\ sail\ number,\ plus\ \n\ whether\ or\ not\ the\ sailor\ is\ a\ visitor\ or\ a\ memeber.\n\ \n\ @return\ \ a\ String\ representation\ of\ the\ dinghy\ name.\ \n
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\n\ Question\ B-iv\n\ Compare\ a\ received\ object\ with\ this\ object\ for\ equality\ based\n\ on\ class\ name\ and\ boat\ name.\n\ \n\ @param\ obj\ \ \ Reference\ the\ object\ to\ be\ compared\ with\ this\ object.\n\ @return\ \ \ \ \ \ true\ if\ the\ received\ object\ is\ a\ club\ boat\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ that\ has\ the\ same\ class\ name\ and\ boat\ name\ as\ this\ object.\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RaceOrganiser
+comment0.text=\n\ class\ RaceOrganiser\ models\ information\n\ used\ by\ a\ race\ officer\ at\ a\ sailing\ club.\n\n\ @author\ M250\ module\ team\n\ @version\ v1\n
+comment1.params=
+comment1.target=RaceOrganiser()
+comment1.text=\n\ Question\ D-i\n\ Constructor\ to\ create\ a\ new\ race\ list.\n
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=\n\ method\ to\ clear\ the\ racers\ list\n
+comment3.params=
+comment3.target=int\ getRacersSize()
+comment3.text=\n\ @returns\ the\ size\ of\ the\ racers\ collection\n
+comment4.params=d
+comment4.target=void\ addRacer(Dinghy)
+comment4.text=\n\ Question\ C-ii\n\ Add\ a\ Dinghy\ to\ the\ race\ list\ if\ it\ is\ not\ already\ present,\n\ otherwise\ display\ a\ message\n\ \n\ @param\ \ Object\ Dinghy\ \ \ The\ dinghy\ to\ add\ to\ the\ race\n
+comment5.params=
+comment5.target=void\ printRacers()
+comment5.text=\n\ Question\ C-iii\n\ Display\ the\ details\ of\ dinghies\ entered\ into\ a\ race\n
+numComments=6
